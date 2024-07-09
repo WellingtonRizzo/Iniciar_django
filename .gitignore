@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Caches de editor
+.vscode/
+.idea/
+
+# Carpeta de entorno virtual
+venv/
+env/
+
+# Base de datos local
+db.sqlite3
+
+# Archivos de media cargados por usuarios
+media/
+
+
+
